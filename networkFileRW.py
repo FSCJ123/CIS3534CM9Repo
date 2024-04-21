@@ -2,6 +2,7 @@
 
 # Joshua McManus
 # April 21, 2022
+# Edited for Github Lab
 # Update routers and switches;
 # Read equipment from a file, write updates & errors to file
 
